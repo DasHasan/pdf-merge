@@ -17,6 +17,6 @@ dependencies {
 }
 
 application {
-    mainClass.set("org.example.ApplicationKt")
+    mainClass.set("de.hasan.ApplicationKt")
 }
 

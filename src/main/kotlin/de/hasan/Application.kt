@@ -1,4 +1,4 @@
-package org.example
+package de.hasan
 
 import org.apache.pdfbox.io.MemoryUsageSetting
 import org.apache.pdfbox.multipdf.PDFMergerUtility
