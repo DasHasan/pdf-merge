@@ -31,3 +31,7 @@ jobs:
           distribution: 'adopt'
       - name: Build with Gradle
         run: ./gradlew installDist
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Package
+          path: build/distributions/
