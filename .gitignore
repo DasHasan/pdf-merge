@@ -137,5 +137,3 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/gradle,kotlin,jetbrains+all
 /gradle/wrapper/
-/gradlew
-/gradlew.bat
