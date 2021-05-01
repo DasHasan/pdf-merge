@@ -136,4 +136,3 @@ gradle-app.setting
 **/build/
 
 # End of https://www.toptal.com/developers/gitignore/api/gradle,kotlin,jetbrains+all
-/gradle/wrapper/
